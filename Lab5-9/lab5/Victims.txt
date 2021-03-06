@@ -1,0 +1,3 @@
+Jane Doe,Hertfordshire,28,photo1
+Jack Peters,London,38,photo2
+Mary Jackson,New York,45,photo3

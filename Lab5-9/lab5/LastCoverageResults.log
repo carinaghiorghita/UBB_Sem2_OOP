@@ -1,0 +1,21 @@
+[2020-04-15 13:35:21] [info] Start Program:
+Path:"D:\\fac\\sem2\\oop\\lab5\\Debug\\lab5.exe"
+Arguments:
+Working directory: "D:\\fac\\sem2\\oop\\lab5\\lab5\\"
+Modules: Selected: D:\fac\sem2\oop\lab5\Debug\lab5.exe Excluded: 
+Sources: Selected: D:\fac\sem2\oop\lab5\lab5 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Carina\AppData\Local\Temp\a2rxteh0.hfm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-04-15 13:35:23] [info] Module: D:\fac\sem2\oop\lab5\Debug\lab5.exe is selected because it matches selected pattern: D:\fac\sem2\oop\lab5\Debug\lab5.exe
+[2020-04-15 13:35:23] [info] ----------------------------------------------------
+[2020-04-15 13:35:23] [info] Coverage binary generated in file: C:\Users\Carina\AppData\Local\Temp\a2rxteh0.hfm
+[2020-04-15 13:35:23] [info] ----------------------------------------------------
